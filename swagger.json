@@ -5,7 +5,7 @@
     "description": "Contacts API",
     "version": "1.0.0"
   },
-  "host": "contactsapi2024.onrender.com",
+  "host": "https://contacts-api-ml00.onrender.com",
   "basePath": "/",
   "schemes": [
     "https"
