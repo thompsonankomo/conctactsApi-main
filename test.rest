@@ -5,7 +5,7 @@ http://localhost:8080
 http://localhost:8080/contacts
 
 # To Get all Single contact
-http://localhost:8080/contacts/65a2c625be1b15c2fff2dc78
+http://localhost:8080/contacts
 
 # To open swagger
 http://localhost:8080/api-docs

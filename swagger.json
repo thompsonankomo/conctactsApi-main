@@ -8,7 +8,7 @@
   "host": "contacts-api-ml00.onrender.com",
   "basePath": "/",
   "schemes": [
-    ""
+    "https"
   ],
   "paths": {
     "/": {
