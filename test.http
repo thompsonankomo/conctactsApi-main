@@ -11,10 +11,10 @@ http://localhost:8080/contacts/65a2c625be1b15c2fff2dc78
 http://localhost:8080/api-docs
 
 # My Published link that return welcome message
-https://contactsapi2024.onrender.com
+https://contacts-api-ml00.onrender.com
 
 # My Production link that returns all contacts
-https://contactsapi2024.onrender.com/contacts
+https://contacts-api-ml00.onrender.com
 
 # My Production link that returns contact by Id
-https://contactsapi2024.onrender.com/contacts/65a2c625be1b15c2fff2dc78
+https://contacts-api-ml00.onrender.com
