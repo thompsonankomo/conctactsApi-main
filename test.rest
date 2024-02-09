@@ -1,0 +1,20 @@
+# To Display Welcome message
+http://localhost:8080
+
+# To Get all contacts
+http://localhost:8080/contacts
+
+# To Get all Single contact
+http://localhost:8080/contacts/65a2c625be1b15c2fff2dc78
+
+# To open swagger
+http://localhost:8080/api-docs
+
+# My Published link that return welcome message
+https://contactsapi2024.onrender.com
+
+# My Production link that returns all contacts
+https://contactsapi2024.onrender.com/contacts
+
+# My Production link that returns contact by Id
+https://contactsapi2024.onrender.com/contacts/65a2c625be1b15c2fff2dc78
